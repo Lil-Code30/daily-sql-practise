@@ -5,3 +5,6 @@ CREATE TABLE client (
     type_client VARCHAR(50), -- Ex. Regular, occasional
     city VARCHAR(50)
 );
+
+ALTER TABLE products
+ADD price DECIMAL(10, 2);
