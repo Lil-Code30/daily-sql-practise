@@ -1,0 +1,2 @@
+CREATE DATABASE eshop
+    DEFAULT CHARACTER SET = 'utf8mb4';
